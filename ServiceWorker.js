@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-L_L App-1.0";
 const contentToCache = [
-    "Build/L-L-webapp.loader.js",
-    "Build/L-L-webapp.framework.js",
-    "Build/L-L-webapp.data",
-    "Build/L-L-webapp.wasm",
+    "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
+    "Build/2bb1d5231f3e882a3b07f33db1403db7.framework.js",
+    "Build/825c7b2015956c48d55a5662a01a5fc4.data",
+    "Build/627d4c1db76e1ccc8bbae5b5aca64ebd.wasm",
     "TemplateData/style.css"
 
 ];
